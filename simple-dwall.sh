@@ -1,6 +1,6 @@
 #!/usr/bin/env fish
 set HOUR (date +%k)
 set ROOT $HOME"/projects/simple-dwall"
-set IMG_TYPE "lakeside"
+set THEME "lakeside"
 # set wallpaper accordingly
-feh --bg-scale "$ROOT/images/$IMG_TYPE/$HOUR.jpg"
+feh --bg-scale "$ROOT/images/$THEME/$HOUR.jpg"
