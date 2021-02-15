@@ -6,7 +6,7 @@ A 3-lines version of the [dynamic wallpaper script](https://github.com/alexDarcy
 **Tested** on Freebsd + Xmonad.
 
 ## Instructions
-Clone the repo and change the `ROOT`variable and the `THEME`  accordingly in `simple-dwall.sh` (default root is $HOME/simple-dwall)
+Clone the repo and change the `ROOT`variable and the `THEME`  accordingly in `simple-dwall.sh` (default root is $HOME/projects/simple-dwall)
 Make the script executable:
 ``` sh
 chmod +x YOURPATH/simple-dwall.sh
