@@ -1,5 +1,5 @@
 #!/usr/bin/env fish
-set HOUR (date +%k)
+set HOUR (date +%H)
 set ROOT $HOME"/projects/simple-dwall"
 set THEME "lakeside"
 # set wallpaper accordingly
