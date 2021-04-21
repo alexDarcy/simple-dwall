@@ -1,5 +1,4 @@
-A 3-lines version of the [dynamic wallpaper script](https://github.com/alexDarcy/dynamic-wallpaper).
-
+A 3-lines version of the [dynamic wallpaper script](https://github.com/adi1090x/dynamic-wallpaper).
 
 **Requires** `cron`, `fish` shell and `feh`.
 
